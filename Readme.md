@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to reorder ASPxNavBar groups
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2057)**
+<!-- run online end -->
 
 
 <p>This sample illustrates how to change the order of groups at runtime by means of custom buttons integrated in the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxNavBarASPxNavBar_GroupHeaderTemplatetopic">GroupHeaderTemplate</a>.</p>
